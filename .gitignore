@@ -1,0 +1,10 @@
+CMakeFiles/
+*.elf
+*.velf
+*.vpk
+*.cmake
+*.bin
+CMakeCache.txt
+param.sfo
+Makefile
+*.DS_Store
